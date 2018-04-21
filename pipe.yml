@@ -1,5 +1,6 @@
 before:
   slogan:
     - name: shell
+      force: true
       script:
         - echo "before test"
