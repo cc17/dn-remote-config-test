@@ -1,0 +1,5 @@
+before:
+  slogan:
+    - name: shell
+      script:
+        - echo "before test"
